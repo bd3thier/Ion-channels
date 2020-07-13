@@ -22,7 +22,9 @@ Data collection and wangling was not necessary as the competition host provided 
   *  [Ion channel EDA - jupyter notebook](https://github.com/bd3thier/Ion-channels/blob/master/Ion%20channel%20-%20data%20wrangling%20and%20EDA.ipynb) - 
   *  [Signal processing - RStudio]() - Coming soon 
   
-* **Machine learning - jupyter notebook**
+* **[Feature engineering - jupyter notebook]()**
+
+* **Machine learning - jupyter notebooks**
   *  [Ensemble methods - jupyter notebook]() - Coming soon
   *  [Deep learning methods - jupyter notebook]() - Coming soon 
 
