@@ -19,10 +19,10 @@ Data collection and wangling was not necessary as the competition host provided 
 * [Presentation of key findings]() - Coming soon
 
 * **EDA - jupyter notebook**
-  *  [Ion channel EDA - jupyter notebook](https://github.com/bd3thier/Ion-channels/blob/master/Ion%20channel%20-%20data%20wrangling%20and%20EDA.ipynb) - 
+  *  [Ion channel EDA - jupyter notebook](https://github.com/bd3thier/Ion-channels/blob/master/notebooks/Ion%20channel%20-%20data%20wrangling%20and%20EDA.ipynb) - 
   *  [Signal processing - RStudio]() - Coming soon 
   
-* **[Feature engineering - jupyter notebook]()**
+* **[Feature engineering - jupyter notebook](https://github.com/bd3thier/Ion-channels/blob/master/notebooks/Ion%20channel%20-%20Feature%20engineering.ipynb)**
 
 * **Machine learning - jupyter notebooks**
   *  [Ensemble methods - jupyter notebook]() - Coming soon
