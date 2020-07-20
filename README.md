@@ -16,7 +16,9 @@ Data collection and wangling was not necessary as the competition host provided 
 
 * [Exploratory Data Analysis - Report](https://github.com/bd3thier/Ion-channels/blob/master/Ion%20channel%20project%20-%20EDA%20Report.pdf)
 * [Final report](https://github.com/bd3thier/Ion-channels/blob/master/Ion%20channel%20project%20-%20Final%20Report.pdf) 
-* [Presentation of key findings]() - Coming soon
+* Presentation of key findings() 
+ * [Video](https://youtu.be/DXrIBpcaXwg) - The resolution on my screen is not optimal, see slides below
+ * [Presentation slides](https://prezi.com/p/edit/hyo_5ovr6nyl/)
 
 * **EDA - jupyter notebook**
   *  [Ion channel EDA - jupyter notebook](https://github.com/bd3thier/Ion-channels/blob/master/notebooks/Ion%20channel%20-%20data%20wrangling%20and%20EDA.ipynb) 
