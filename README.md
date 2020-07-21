@@ -36,7 +36,7 @@ Data collection and wangling was not necessary as the competition host provided 
 
 ## Author
 
-* [Berenice Dethier](https://www.linkedin.com/in/berenice-dethier-phd-9b167491/)
+* [Berenice Dethier](https://www.linkedin.com/in/berenice-dethier/)
 
 ## Acknowledgements
 
