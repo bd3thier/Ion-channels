@@ -22,7 +22,7 @@ Data collection and wangling was not necessary as the competition host provided 
 
 * **EDA - jupyter notebook**
   *  [Ion channel EDA - jupyter notebook](https://github.com/bd3thier/Ion-channels/blob/master/notebooks/Ion%20channel%20-%20data%20wrangling%20and%20EDA.ipynb) 
-  *  [Signal processing - RStudio]() - Coming soon 
+  *  [Signal processing - RStudio](https://github.com/bd3thier/Ion-channels/blob/master/notebooks/Kalman-filter_testHQ_forGH.md)
   
 * **Feature Engineering - jupyter notebooks**
   * [Feature engineering 1](https://github.com/bd3thier/Ion-channels/blob/master/notebooks/Ion%20channel%20-%20Feature%20Engineering%201.ipynb)
