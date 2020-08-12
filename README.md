@@ -1,13 +1,14 @@
 This project is in progress - please check back later for more!
 
 # Ion-channels
-Reports, notebooks, and everything else related to my participation in the Kaggle competition "Ion switching" (ending May 2020)
-The work was performed in the context of my Springboard capstone projet.
+Reports, notebooks, and everything else related to my participation in the Kaggle competition "Ion switching" (ending May 2020).
+The work was performed in the context of my second Springboard capstone project.
 
 ## Overview
 
 The project comprises all steps of Data Science work broken down as follows:
 * Exploratory Data Analysis
+* Feature engineering and selection
 * Machine learning (ensemble models and deep learning)
 * Reporting
 Data collection and wangling was not necessary as the competition host provided data.
